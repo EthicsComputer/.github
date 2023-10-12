@@ -1,4 +1,4 @@
-# EthicsComputer - GitHub README
+EthicsComputer
 
 ## About Us
 
@@ -10,7 +10,6 @@ Welcome to EthicsComputer, your one-stop solution for a wide range of digital se
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- 
 
 ## Features
 
@@ -51,7 +50,7 @@ Ready to experience digital excellence with EthicsComputer? Here's how to get st
 
 1. **Visit Our Website**: Explore our comprehensive range of services and learn more about what we can offer your organization. Visit [EthicsComputer](https://www.ethicscomputer.in) now.
 
-2. **Contact Us**: For inquiries, project discussions, or to get a quote, you can reach out to us at [info@ethicscomputer.com](mailto:info@ethicscomputer.in).
+2. **Contact Us**: For inquiries, project discussions, or to get a quote, you can reach out to us at [info@ethicscomputer.in](mailto:info@ethicscomputer.in).
 
 3. **Stay Connected**: Follow us on social media to stay updated with our latest projects and digital trends. Connect with us on [Facebook](https://www.facebook.com/ethicscomputer), and [LinkedIn](https://www.linkedin.com/company/ethicscomputer).
 
