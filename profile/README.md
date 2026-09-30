@@ -1,54 +1,55 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=07192c&height=220&section=header&text=EthicsComputer&fontSize=50&fontColor=00B4D8&animation=fadeIn&fontAlignY=36&desc=Innovative%20IT%20%26%20Cyber%20Security%20Solutions%20%7C%20VAPT%20Audits%20%7C%20Enterprise%20Software&descAlignY=58&descAlign=50&descSize=16" alt="EthicsComputer Enterprise Banner" width="100%" />
-</p>
+<div align="center">
+
+# 🛡️ EthicsComputer
+### **Innovative IT & Cyber Security Solutions • VAPT Audits • Enterprise Software Engineering**
+
+<a href="https://ethicscomputer.in">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=00B4D8&center=true&vCenter=true&width=800&lines=Leading+Cybersecurity+Advisory+%26+Offensive+VAPT+Audits;Digital+Forensics%2C+Zero-Day+Research+%26+Incident+Response;High-Performance+Enterprise+Software+%26+E-Commerce;AI-Powered+Automation+Pipelines+%26+Cloud+Hardening;Defending+Digital+Frontiers+%E2%80%A2+Engineering+Trust" alt="EthicsComputer Tagline Typing" />
+</a>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=00B4D8&center=true&vCenter=true&width=850&lines=Leading+Cybersecurity+Advisory+%26+Offensive+VAPT+Audits;Digital+Forensics%2C+Zero-Day+Research+%26+Incident+Response;High-Performance+Enterprise+Software+%26+E-Commerce;AI-Powered+Automation+Pipelines+%26+Cloud+Hardening;Securing+Code%2C+Protecting+Infrastructure%2C+Engineering+Trust" alt="EthicsComputer Typing Header" />
-</p>
-
-<p align="center">
-  <strong>Premier Cyber Security Consulting • VAPT Audits • Enterprise Software Engineering • Industrial Academy</strong>
-</p>
-
-<p align="center">
-  <a href="https://ethicscomputer.in"><img src="https://img.shields.io/badge/Official_Portal-ethicscomputer.in-0076C8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Official Website" /></a>
+  <a href="https://ethicscomputer.in"><img src="https://img.shields.io/badge/Official_Website-ethicscomputer.in-0076C8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Official Website" /></a>
   <a href="mailto:info@ethicscomputer.in"><img src="https://img.shields.io/badge/Corporate_Email-info%40ethicscomputer.in-07192C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://wa.me/919053210052"><img src="https://img.shields.io/badge/WhatsApp_Direct-%2B91_90532_10052-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
   <a href="tel:+919053210052"><img src="https://img.shields.io/badge/Hotline-%2B91_90532_10052-0088CC?style=for-the-badge&logo=phone&logoColor=white" alt="Phone" /></a>
-  <a href="https://github.com/EthicsComputer"><img src="https://komarev.com/ghpvc/?username=EthicsComputer&color=0076c8&style=for-the-badge&label=PORTAL_VISITORS" alt="Visitor Counter" /></a>
+  <a href="https://github.com/EthicsComputer"><img src="https://komarev.com/ghpvc/?username=EthicsComputer&color=0076c8&style=for-the-badge&label=ORGANIZATION_VISITORS" alt="Visitor Counter" /></a>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Accreditation-OSCP_%7C_CEH_%7C_CISA_%7C_CISSP-red?style=flat-square&logo=shield" alt="Certifications" />
   <img src="https://img.shields.io/badge/Standards-OWASP_Top_10_%7C_NIST_CSF_%7C_ISO_27001-blue?style=flat-square&logo=securityscorecard&logoColor=white" alt="Standards" />
-  <img src="https://img.shields.io/badge/MSME_UDYAM-UDYAM--HR--16--0001574-green?style=flat-square&logo=gov.uk&logoColor=white" alt="MSME Registration" />
+  <img src="https://img.shields.io/badge/Govt._Registered-MSME_UDYAM--HR--16--0001574-success?style=flat-square&logo=gov.uk&logoColor=white" alt="MSME Registration" />
   <img src="https://img.shields.io/badge/GSTIN-06DEMPG0824K1ZH-blueviolet?style=flat-square" alt="GSTIN" />
-  <img src="https://img.shields.io/badge/Client_Satisfaction-4.9%20%E2%98%85%20(358%2B%20Reviews)-yellow?style=flat-square&logo=google&logoColor=white" alt="Reviews" />
+  <img src="https://img.shields.io/badge/Client_Rating-4.9%20%E2%98%85%20(358%2B%20Reviews)-yellow?style=flat-square&logo=google&logoColor=white" alt="Google Rating" />
   <img src="https://img.shields.io/badge/Headquarters-Rohtak%2C_Haryana_124001-orange?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
 </p>
 
+</div>
+
 ---
 
-## 🏛️ Corporate Profile & Executive Overview
+## 🏛️ About EthicsComputer
 
-**EthicsComputer** is a government-registered (MSME Udyam: `UDYAM-HR-16-0001574`) cybersecurity advisory, independent Vulnerability Assessment & Penetration Testing (VAPT) firm, and enterprise digital engineering company headquartered in Rohtak, Haryana, India.
+**EthicsComputer** is a premier cybersecurity advisory, independent Vulnerability Assessment & Penetration Testing (VAPT) firm, and enterprise digital engineering company headquartered in Rohtak, Haryana, India. 
 
-We bridge the gap between deep offensive security research and enterprise software craftsmanship. Whether defending high-transaction global e-commerce supply chains from zero-day exploit campaigns, conducting court-defensible forensic breach triages, or architecting resilient cloud platforms, EthicsComputer delivers mission-critical defensive posture backed by human-led technical expertise.
+Registered under the Ministry of MSME, Government of India (Udyam: `UDYAM-HR-16-0001574`), EthicsComputer delivers high-assurance defensive security, digital forensics, incident response (DFIR), and resilient software engineering to organizations worldwide.
 
-### Key Executive Leadership
+From investigating critical zero-day exploit campaigns and high-stakes e-commerce supply chain breaches to engineering hardened cloud infrastructures and intelligent AI automation, we deliver defensive resilience backed by verifiable human expertise.
+
+### 👤 Executive Leadership
 - 👨‍💼 **Founder & CEO / Principal Assessor:** **Dr. Vinay Grover** (*OSCP | CEH | CISA | CISSP*)
-- 🏢 **Registered Corporate Headquarters:** 1886/34, New Vijay Nagar, Rohtak, Haryana – 124001, India
+- 🏢 **Corporate Headquarters:** 1886/34, New Vijay Nagar, Rohtak, Haryana – 124001, India
 - 🏬 **Branch Office:** 114, 1st Floor, City Mall, Jhajjar, Haryana – 124103, India
-- 🎯 **Core Motto:** *"Securing Code, Protecting Infrastructure, Engineering Trust."*
-- 🌐 **Primary Web Gateway:** [https://ethicscomputer.in](https://ethicscomputer.in)
+- 🎯 **Mission Statement:** *"Securing Code, Protecting Infrastructure, Engineering Trust."*
+- 🌐 **Official Web Gateway:** [https://ethicscomputer.in](https://ethicscomputer.in)
 
 ---
 
-## 🌟 Comprehensive Service Pillars
+## 🌟 Core Enterprise Solutions
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────────────┐
-│                               ETHICSCOMPUTER DUAL ENGINE                                │
+│                               ETHICSCOMPUTER SERVICE DOMAINS                            │
 ├──────────────────────────────┬──────────────────────────────┬───────────────────────────┤
 │  🛡️ OFFENSIVE CYBERSECURITY  │   🚀 SOFTWARE ENGINEERING    │ 🎓 ACADEMY & ENABLEMENT   │
 │  • Web, API & Mobile VAPT    • Custom Enterprise Web Apps   │ • Practical Cyber Defense │
@@ -63,7 +64,7 @@ We bridge the gap between deep offensive security research and enterprise softwa
     <td width="50%" valign="top">
       <h3>🛡️ 1. Cyber Security & Offensive VAPT Audits</h3>
       <ul>
-        <li><strong>Web Application Pentesting:</strong> Deep manual OWASP Top 10, complex business logic flaws, race conditions, authentication bypass, and privilege escalation.</li>
+        <li><strong>Web Application Pentesting:</strong> Manual OWASP Top 10, complex business logic flaws, race conditions, authentication bypass, and privilege escalation.</li>
         <li><strong>API & Microservices Audits:</strong> REST, GraphQL, and gRPC vulnerability assessments, broken object-level authorization (BOLA/BFLA), token manipulation.</li>
         <li><strong>Mobile Security (iOS & Android):</strong> Binary reverse engineering, dynamic hooking (Frida/Objection), insecure local storage, and root/jailbreak detection evasion.</li>
         <li><strong>Cloud & Network Hardening:</strong> Perimeter audits across AWS, GCP, Azure, Docker, and cPanel/WHM configurations.</li>
@@ -137,66 +138,7 @@ We bridge the gap between deep offensive security research and enterprise softwa
 
 ---
 
-## 💻 Repository Architecture & System Modules (`ec`)
-
-This repository houses the entire source code for the **EthicsComputer Enterprise Web Platform and Operations Core**, featuring multi-tenant user portals, an autonomous SEO growth engine, cryptographic document verification, and a free cybersecurity toolkit.
-
-```
-c:\xampp\htdocs\ec\
-├── 📂 academy/               # EthicsComputer Training Academy curriculum & registrations
-├── 📂 admin/                 # Central Operations & Admin Dashboard (CMS, Inquiries, Audits, Analytics)
-├── 📂 api/                   # RESTful API endpoints for CRM, verification & lead processing
-├── 📂 assets/                # Design assets (Modular CSS, Vanilla JS, Brand SVGs, Images)
-├── 📂 client/                # Client Portal (Audit progress, confidential reports, tickets, NDAs)
-├── 📂 config/                # Core configurations, database PDO pool, security tokens & headers
-│   ├── config.php            # Single source of truth for business NAP, metadata & security constants
-│   └── database.php          # High-performance PDO connection pool with retry resilience
-├── 📂 data/                  # Dynamic JSON state caches, stats, and search indexes
-├── 📂 employee/              # Internal employee workflow, tasks, and document management
-├── 📂 hr/                    # Human Resources portal (Attendance, Facial/Geo checks, Onboarding)
-├── 📂 includes/              # Core business engines, security helpers, and UI layouts
-│   ├── auth.php              # Multi-tier RBAC authentication and session firewall
-│   ├── functions.php         # Utility helpers, input sanitization, and output escaping
-│   ├── cert_helper.php       # Dynamic certificate generator with cryptographic hashes
-│   ├── offer_helper.php      # Automated offer letter generation and digital signing
-│   ├── id_card_helper.php    # Employee & Intern digital ID card builder
-│   ├── chat-assistant-engine.php # Gemini-powered AI chatbot assistant
-│   └── seo-*-engine.php      # Autonomous SEO Operating System (growth, quality gate, redirects)
-├── 📂 intern/                # Internship management, milestone submission, and evaluations
-├── 📂 partner/               # Channel Partner & Affiliate portal (referrals, payouts, partner certificates)
-├── 📂 services/              # Individual high-conversion service landing pages
-├── 📂 tools/                 # Free developer & cybersecurity network diagnostics tools
-├── 📂 uploads/               # Secure document store (strictly validated MIME types)
-├── 📂 verify/                # Verification routes and public signature resolvers
-├── 📄 verify.php             # Unified instant QR verification engine
-├── 📄 verify-id.php          # Cryptographic employee ID verification portal
-├── 📄 verify-offer.php       # Offer letter authentication gateway
-├── 📄 verify-agreement.php   # Client audit NDA and service agreement validation
-├── 📄 partner-certificate.php# Channel partner certificate verification
-├── 📄 khataflow.php          # Invoicing, ledger, and accounting integration
-└── 📄 .htaccess              # Enterprise Apache security hardening & SEO rewrites
-```
-
----
-
-## 🔒 Security Architecture & Defensive Hardening
-
-The `ec` platform is engineered with an offensive mindset to withstand modern cyber attacks:
-
-1. **Anti-Fingerprinting & Cloaking:** Automatic removal of `X-Powered-By` and `Server` response headers (`config.php`).
-2. **Strict HTTP Security Headers:**
-   - `X-Content-Type-Options: nosniff`
-   - `X-Frame-Options: SAMEORIGIN` (Clickjacking mitigation)
-   - `X-XSS-Protection: 1; mode=block`
-   - `Referrer-Policy: strict-origin-when-cross-origin`
-3. **Session Hardening:** Custom session namespace (`APPSID`), HTTPS cookie enforcement, `HttpOnly: true`, and `SameSite: Lax` cookie policies.
-4. **Injection Immunity:** 100% prepared PDO SQL statements across all database interactions, eliminating SQL Injection (SQLi) vectors.
-5. **CSRF & Rate Limiting:** Form-level cryptographic token validation and brute-force protection with IP-based lockout after 5 consecutive failed attempts.
-6. **Strict Upload Sanitization:** MIME whitelist validation for PDF, WebP, PNG, JPEG, with direct PHP execution disabled in `/uploads` via `.htaccess`.
-
----
-
-## 🛠️ Technical Arsenal & Tech Stack
+## 🛠️ Technical Arsenal & Security Toolkit
 
 <details open>
 <summary><b>🔥 Click to View Our Tech Stack & Security Toolkit</b></summary>
@@ -214,74 +156,54 @@ The `ec` platform is engineered with an offensive mindset to withstand modern cy
 
 ---
 
-## 🚀 Local Development Setup
+## 🌐 Open Source & Security Research Ecosystem
 
-To run the EthicsComputer platform locally on your environment:
+We actively publish and maintain security research, developer utilities, and hardening blueprints on GitHub:
 
-### Prerequisites
-- **Web Server:** Apache 2.4+ (with `mod_rewrite` enabled)
-- **PHP:** Version 8.1 or higher (with `pdo_mysql`, `curl`, `mbstring`, `gd`, `openssl` extensions enabled)
-- **Database:** MySQL 8.0+ or MariaDB 10.4+
-- **Tooling:** XAMPP / Laragon / Native LAMP Stack
-
-### Installation Steps
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/EthicsComputer/ec.git c:/xampp/htdocs/ec
-   ```
-
-2. **Database Initialization:**
-   - Create a new MySQL database:
-     ```sql
-     CREATE DATABASE ethics_computer_db CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
-     ```
-   - Import the initial schema dump into the created database.
-
-3. **Configure Environment:**
-   - Check `config/config.php` and `config/database.php`.
-   - Update database credentials for your local environment:
-     ```php
-     define('DB_HOST', '127.0.0.1');
-     define('DB_NAME', 'ethics_computer_db');
-     define('DB_USER', 'root');
-     define('DB_PASS', '');
-     ```
-
-4. **Directory Permissions:**
-   Ensure write permissions on the upload and cache directories:
-   ```bash
-   chmod -R 775 uploads/ data/
-   ```
-
-5. **Access in Browser:**
-   Navigate to:
-   - **Public Site:** `http://localhost/ec/`
-   - **Admin Portal:** `http://localhost/ec/admin/`
-   - **Client Portal:** `http://localhost/ec/client/`
-   - **Verification Gateway:** `http://localhost/ec/verify.php`
+- 🛡️ **Web & API Pentesting Frameworks:** Standardized testing checklists and PoC templates for OWASP Top 10 vulnerabilities.
+- 🔍 **Incident Response & Forensics Playbooks:** Triage scripts and log analysis tools for rapid e-commerce malware detection.
+- ⚡ **Secure Web Core Boilerplates:** Enterprise PHP/Node.js starter architectures with built-in RBAC, CSRF tokens, anti-fingerprinting, and secure headers.
+- 🛠️ **Public Diagnostics Toolkit:** Free online utilities for developers and sysadmins at [ethicscomputer.in/tools](https://ethicscomputer.in/tools).
 
 ---
 
 ## 📜 Compliance, Standards & Certifications
 
-EthicsComputer adheres to globally recognized cybersecurity and privacy frameworks:
+EthicsComputer adheres to globally recognized cybersecurity and regulatory frameworks:
 
-- **OWASP Top 10 (Web & API):** Rigorous zero-false-positive testing methodology.
+- **OWASP Top 10 (Web & API):** Rigorous zero-false-positive manual testing methodology.
 - **NIST Cybersecurity Framework (CSF):** Identify, Protect, Detect, Respond, Recover.
 - **ISO/IEC 27001 ISMS Alignment:** Structured Information Security Management Systems.
 - **SOC 2 Type II Alignment:** Security, Availability, Processing Integrity, Confidentiality.
-- **Shopify Partner & App Store Compliance:** Independent vendor security audits and reinstatements.
+- **Shopify & Payment Gateway Compliance:** Attestation reports accepted by Shopify Trust & Safety, Stripe, PayPal, and merchant processors.
 
 ---
 
 ## 🤝 Engaging with EthicsComputer
 
-### For Enterprise Audits & Development Projects:
-- 📩 **Inquiries & RFPs:** [info@ethicscomputer.in](mailto:info@ethicscomputer.in)
-- 📞 **Direct WhatsApp / Call:** [+91 90532 10052](https://wa.me/919053210052) / [+91 79885 65020](tel:+917988565020)
-- 🌐 **Project Request Form:** [https://ethicscomputer.in/contact](https://ethicscomputer.in/contact)
-- 📝 **NDA Execution:** Pre-audit mutual NDAs signed within 2 hours.
+### How We Partner With Organizations:
+
+```
+┌──────────────────┐     ┌──────────────────┐     ┌──────────────────┐     ┌──────────────────┐
+│  1. Scoping &    │ ──► │ 2. Offensive     │ ──► │ 3. Executive &   │ ──► │ 4. Remediation   │
+│  Mutual NDA      │     │ Assessment (PoC) │     │ Human-Signed Rpt │     │ Re-Testing & Seal│
+└──────────────────┘     └──────────────────┘     └──────────────────┘     └──────────────────┘
+```
+
+1. **Scoping & Mutual NDA:** Fast-track onboarding with strict confidentiality agreements executed within 2 hours.
+2. **Deep Manual Assessment:** Dedicated security researchers conducting manual penetration tests and business logic discovery (zero scanner noise).
+3. **Executive & Technical Deliverables:** Human-signed reports with reproducible proof-of-concept (PoC) steps, risk scoring (CVSS v3.1), and developer remediation guides.
+4. **Remediation Verification:** Complimentary re-testing of patched findings and issuance of the official **EthicsComputer Security Attestation Certificate**.
+
+---
+
+## 🔐 Responsible Vulnerability Disclosure Policy (VDP)
+
+EthicsComputer is committed to the security of digital infrastructure. If you believe you have found a security vulnerability in any of our web properties or managed assets:
+
+- 📩 Please email us immediately at: **[security@ethicscomputer.in](mailto:security@ethicscomputer.in)** or **[info@ethicscomputer.in](mailto:info@ethicscomputer.in)**.
+- Include detailed proof-of-concept steps, affected endpoints, and impact assessment.
+- We acknowledge security disclosures within **24 hours** and provide regular status updates during remediation.
 
 ---
 
