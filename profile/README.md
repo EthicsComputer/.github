@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1200&color=00B4D8&center=true&vCenter=true&width=800&lines=⚡+Welcome+to+EthicsComputer;🛡️+Next-Gen+Cybersecurity+%26+VAPT+Audits;🔍+Digital+Forensics+%26+Incident+Response;🚀+Enterprise+Software+%26+AI+Engineering;🔒+Securing+Digital+Assets+Worldwide" alt="EthicsComputer Dynamic Typing Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=07192c&height=200&section=header&text=EthicsComputer&fontSize=50&fontColor=00B4D8&animation=fadeIn&fontAlignY=38&desc=Next-Gen%20Cybersecurity%20Services%20%7C%20VAPT%20Audits%20%7C%20Enterprise%20Software&descAlignY=62&descAlign=50&descSize=16" alt="EthicsComputer Cyber Banner" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=00B4D8&center=true&vCenter=true&width=800&lines=Welcome+to+EthicsComputer+Cybersecurity;Next-Gen+VAPT+Audits+%26+Offensive+Security;Digital+Forensics+%26+Incident+Response;Enterprise+Software+%26+AI+Architecture;Defending+Digital+Frontiers+Worldwide" alt="EthicsComputer Typing Header" />
 </p>
 
 <p align="center">
@@ -90,19 +94,33 @@ From investigating critical zero-day exploits and high-stakes e-commerce supply 
 
 ---
 
-### 📊 Dynamic GitHub Activity & Metrics
+### 📊 Organization Operations & Security Benchmarks
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <h3>🛡️ 500+</h3>
+      <span><b>VAPT Audits Executed</b><br><sub>Web, Mobile & Cloud Perimeter</sub></span>
+    </td>
+    <td align="center" width="25%">
+      <h3>⚡ &lt; 4 Hours</h3>
+      <span><b>Incident Containment</b><br><sub>Rapid Forensics & Triage</sub></span>
+    </td>
+    <td align="center" width="25%">
+      <h3>✍️ 100%</h3>
+      <span><b>Human-Signed Reports</b><br><sub>Zero Scanner Dumps</sub></span>
+    </td>
+    <td align="center" width="25%">
+      <h3>🔒 A+ Grade</h3>
+      <span><b>Marketplace Acceptance</b><br><sub>Shopify & Payment Gateways</sub></span>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EthicsComputer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=07192c&title_color=00b4d8&text_color=e2e8f0&icon_color=38bdf8" alt="EthicsComputer GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EthicsComputer&layout=compact&theme=tokyonight&hide_border=true&bg_color=07192c&title_color=00b4d8&text_color=e2e8f0" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EthicsComputer&theme=tokyonight&hide_border=true&background=07192c&ring=00b4d8&fire=ff0055&currStreakLabel=00b4d8" alt="GitHub Streak" width="96%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=EthicsComputer&theme=radical&no-frame=true&no-bg=true&margin_w=4" alt="GitHub Trophies" />
+  <img src="https://img.shields.io/badge/Security_Operations-24%2F7_Active_Defense-0076C8?style=for-the-badge&logo=shieldsdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Research-Zero--Day_Vulnerability_Disclosure-07192C?style=for-the-badge&logo=target&logoColor=00B4D8" />
+  <img src="https://img.shields.io/badge/Compliance-OWASP_%7C_NIST_%7C_ISO_27001-2EA44F?style=for-the-badge&logo=checkmarx&logoColor=white" />
 </p>
 
 ---
